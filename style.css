@@ -1,0 +1,171 @@
+h1{
+    color:red;
+    text-align: center;
+    font-size: 40px;
+}
+input{
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 900px;
+    display: block;
+    text-align:right ;
+    font-size: 40px;
+    margin-left: 120px;
+    margin-right: 10px;
+    width: 300px;
+    height: 60px;
+
+}
+.btn-one{
+    margin-left: 500px;
+    padding: 3.3%;
+    display: block;
+    background-color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-two{
+    padding: 3.3%;
+    display: block;
+    background-color: white;
+    margin-top: -116px;
+    margin-left: 608px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-three{
+    padding: 3.3%;
+    display: block;
+    background-color: white;
+    margin-top: -116px;
+    margin-left: 718px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-four{
+    margin-left: 500px;
+    padding: 3.3%;
+    display: block;
+    background-color: white;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-five{
+    
+    padding: 3.3%;
+    display: block;
+    background-color: white;
+    margin-top: -117px;
+    margin-left: 608px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-six{
+    padding: 3.3%;
+    display: block;
+    background-color: white;
+    margin-top: -117px;
+    margin-left: 718px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-seven{
+    margin-left: 498px;
+    padding: 3.3%;
+    display: block;
+    background-color: white;
+    margin-top: -70px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-eight{
+    padding: 3.3%;
+    display: block;
+    background-color: white;
+    margin-top: -117px;
+    margin-left: 608px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-nine{
+   padding: 3.3%;
+    display: block;
+    background-color: white;
+    margin-top: -117px;
+    margin-left: 718px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-zero{
+    padding: 3.3%;
+    display: block;
+    background-color: white;
+    margin-top: -117px;
+    margin-left: 826px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-add{
+    padding:90px 40px;
+    display: block;
+    background-color: white;
+    margin-top: -100px;
+    margin-left: 1040px;
+    font-size: 10px;
+    font-weight: 700;
+}.btn-sub{
+    padding: 2.3%;
+    display: block;
+    background-color: white;
+    margin-top: -110px;
+    margin-left: 830px;
+    font-size: 20px;
+    font-weight: 700;
+}.btn-mul{
+    padding: 2.3%;
+    display: block;
+    background-color: white;
+    margin-top: -90px;
+    margin-left: 930px;
+    margin-bottom: 105px;
+    font-size: 20px;
+    font-weight: 700;
+}.btn-div{
+    padding: 3.3%;
+    display: block;
+    background-color: white;
+    margin-top: -117px;
+    margin-left: 935px;
+    font-size: 20px;
+    font-weight: 700;
+}.btn-equal{
+    padding:90px 40px;
+    margin-left: 1040px;
+    margin-right: 10px;
+    display: block;
+    background-color: white;
+    margin-top: 10px;
+    font-size: 10px;
+    font-weight: 700;
+}
+.btn-ac{
+    padding: 2.3%;
+    display: block;
+    background-color: white;
+    margin-top: -360px;
+    margin-left: 830px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-del{
+    padding: 2.3%;
+    display: block;
+    background-color: white;
+    margin-top: -87px;
+    margin-left: 930px;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
